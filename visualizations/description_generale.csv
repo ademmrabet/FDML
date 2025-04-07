@@ -1,0 +1,12 @@
+,Index,Title,Description,Amount(in rupees),Price (in rupees),location,Carpet Area,Status,Floor,Transaction,Furnishing,facing,overlooking,Society,Bathroom,Balcony,Car Parking,Ownership,Super Area,Dimensions,Plot Area
+count,187531.0,187531,184508,187531,169866.0,187531,106858,186916,180454,187448,184634,117298,106095,77853,186703,138596,84174,122014,79846,0.0,0.0
+unique,,32446,65634,1561,,81,2758,1,947,4,3,8,19,10376,11,11,229,4,2976,,
+top,,2 BHK Ready to Occupy Flat for sale in Divyasree Elan Sarjapur Road,Multistorey apartment is available for sale. It is a good location property. Please contact for more details.,Call for Price,,new-delhi,1000 sqft,Ready to Move,2 out of 4,Resale,Semi-Furnished,East,Main Road,Hamdam Apartment,2,2,1 Covered,Freehold,1100 sqft,,
+freq,,2106,2732,9684,,27599,5285,186916,12433,144172,88318,54741,32193,1648,93007,51809,38754,112229,2599,,
+mean,93765.0,,,,7583.771884897507,,,,,,,,,,,,,,,,
+std,54135.68100307473,,,,27241.705818997474,,,,,,,,,,,,,,,,
+min,0.0,,,,0.0,,,,,,,,,,,,,,,,
+25%,46882.5,,,,4297.0,,,,,,,,,,,,,,,,
+50%,93765.0,,,,6034.0,,,,,,,,,,,,,,,,
+75%,140647.5,,,,9450.0,,,,,,,,,,,,,,,,
+max,187530.0,,,,6700000.0,,,,,,,,,,,,,,,,
